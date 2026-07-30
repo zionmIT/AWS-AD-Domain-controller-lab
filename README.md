@@ -21,7 +21,7 @@ it passed all status checks.
 
 Locked down remote access to RDP (port 3389) from my IP only —
 not open to the internet.
-![Security group inbound rules](02-security-group-inbound.png)
+![Security group inbound rules](02-ec2-security-group-inbound.png)
 
 # 2. Configured the base server
 Logged in for the first time and confirmed the instance identity,
@@ -31,7 +31,7 @@ then verified Windows Firewall was active before making any changes.
 
 # 3. Promoted the server to a Domain Controller
 Before promotion, the server was a standalone workgroup machine:
-![Local Server, pre-promotion (Workgroup)](06-windowslocalserver-_running.png)
+![Local Server, pre-promotion (Workgroup)](06-windowslocalserver-running.png)
 
 Installed the AD DS and DNS Server roles:
 ![AD DS + DNS role selection](09-windows-ad-dns.png)
