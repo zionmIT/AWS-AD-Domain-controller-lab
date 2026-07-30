@@ -38,7 +38,7 @@ Installed the AD DS and DNS Server roles:
 
 After promotion, the server was renamed `DC01` and now belongs to the
 `homelab.local` domain instead of a workgroup:
-![Local Server, post-promotion (DC01)](07-windows-_localserver.png)
+![Local Server, post-promotion (DC01)](07-windows-localserver.png)
 ![AD DS role installed and running](08-windows-ad-ds.png)
 
 # 4. Managed users and groups in Active Directory
