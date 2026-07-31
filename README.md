@@ -21,7 +21,7 @@ it passed all status checks.
 
 Locked down remote access to RDP (port 3389) from my IP only —
 not open to the internet.
-![Security group inbound rules](02-ec2-security-group-inbound.png)
+![Security group inbound rules]()
 
 # 2. Configured the base server
 Logged in for the first time and confirmed the instance identity,
