@@ -55,7 +55,7 @@ Added the new user to the group, completing the onboarding task:
 
 # 5. Tracked the work through a ticketing workflow
 Set up an IT Service Management project in Jira and logged each AD
-change as a real support request before working it — mirroring how a
+change as a real support request before working it mirroring how a
 helpdesk actually operates.
 ![IT Service MGMNT portal](14-jira-ITservicemgnt.png)
 ![Ticket queue: onboarding request in progress, group creation done](15-jira-ITtasklist.png)
